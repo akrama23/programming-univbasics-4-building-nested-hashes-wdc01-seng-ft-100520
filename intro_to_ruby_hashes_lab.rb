@@ -16,7 +16,8 @@ def monopoly_with_second_tier
   
 }
 
-monopoly_with_third_tier[:railroad]= [ {:pieces => 4}, {:rent_in_cash
+monopoly_with_third_tier[:railroad]= [ {:pieces => 4}, {:rent_in_cash =>{} }, 
+{:names => {} } ]
   ]
 
 
