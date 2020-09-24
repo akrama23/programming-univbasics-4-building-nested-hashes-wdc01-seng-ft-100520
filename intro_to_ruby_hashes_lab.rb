@@ -1,6 +1,7 @@
 def monopoly_with_one_tier 
   
-monopoly= { railroads: {}
+monopoly= {
+  railroads: {}
   
 }
 
