@@ -1,4 +1,4 @@
-def monopoly_with_one_tier 
+def monopoly
   
 monopoly= {
   railroads: {}
