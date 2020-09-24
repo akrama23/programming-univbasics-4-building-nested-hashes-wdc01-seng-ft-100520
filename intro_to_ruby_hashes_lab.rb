@@ -1,4 +1,4 @@
-def monopoly
+def bash_hash
   
 monopoly= {
   railroads: {}
