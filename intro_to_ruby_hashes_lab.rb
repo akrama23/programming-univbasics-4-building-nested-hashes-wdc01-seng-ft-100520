@@ -1,6 +1,6 @@
 def bash_hash
   
-monopoly= {
+monopoly = {
   railroads: {}
   
 }
