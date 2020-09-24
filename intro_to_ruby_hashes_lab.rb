@@ -1,7 +1,6 @@
 def bash_hash
   
- {
-  railroads: {}
+ {:railroads => {}
   
 }
 
