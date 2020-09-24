@@ -16,7 +16,7 @@ def monopoly_with_second_tier
   
 }
 
-monopoly_with_third_tier[:railroad]<< {:pieces 4}
+monopoly_with_third_tier[:railroad]
 
 end
 
