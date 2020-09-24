@@ -14,7 +14,7 @@ def monopoly_with_second_tier
   # complexity.
   
 
-base_hash[:railroad]= [ {:pieces => 4}, {:rent_in_cash =>{} }, 
+base_hash[:railroad]= [ {:pieces => "4"}, {:rent_in_cash =>{} }, 
 {:names => {} } ]
   
 
